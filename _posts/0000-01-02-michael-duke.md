@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Some text here from Robin Williams
+Aladin was a good disney picture
 Use the left arrow to go back!
